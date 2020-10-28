@@ -1,5 +1,5 @@
 # Metodo-QuickSort
-Este programa fue creado en DEV C++ en el cual se utiliza el método Metodo QuickSort
+Este programa fue creado en DEV C++ en el cual se utiliza el método Metodo QuickSort.
 
 En esta parte se declara una función en donde se realiza el método de ordenamiento quicksort.
 
@@ -22,7 +22,7 @@ En esta parte se muestra la lista ordenada por el método de quicksort.
 
 ![r6](https://user-images.githubusercontent.com/72090852/97486167-b3231200-1920-11eb-9638-923a270020ad.jpg)
 
-resultados de la conpilación.
+Resultados de la compilación.
 
 En la compilación del programa podemos observar cómo nuestra lista inicial está desordenada y la segunda lista se encuentra ordenada me menor a mayor .
 
